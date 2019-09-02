@@ -9,4 +9,9 @@ public class SampleProgram
 		//sample branch commit
 
 	}
+	public void sample()
+	{
+		System.out.println("test");
+	}
+
 }
