@@ -1,3 +1,4 @@
+
 package test1;
 
 public class SampleProgram 
@@ -9,9 +10,4 @@ public class SampleProgram
 		//sample branch commit
 
 	}
-	public void sample()
-	{
-		System.out.println("test");
-	}
-
 }
